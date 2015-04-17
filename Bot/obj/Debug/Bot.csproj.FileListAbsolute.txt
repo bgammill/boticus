@@ -1,0 +1,10 @@
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\S22.Xmpp.dll
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\S22.Xmpp.xml
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.exe
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.pdb
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\bgammill\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Newtonsoft.Json.xml
